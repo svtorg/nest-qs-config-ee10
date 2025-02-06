@@ -1,1 +1,1 @@
-#QuickSec configuration repo for quicksec ee10
+#QuickSec configuration repo to keep for long running quicksec ee10 application
